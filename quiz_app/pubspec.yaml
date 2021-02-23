@@ -40,3 +40,7 @@ flutter:
   assets:
     - images/flag.png
 
+  fonts:
+    - family: Lobster
+      fonts:
+      - asset: fonts/Lobster-Regular.ttf
